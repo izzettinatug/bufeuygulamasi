@@ -1,0 +1,16 @@
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\bin\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.exe
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\bin\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.deps.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\bin\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.runtimeconfig.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\bin\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.runtimeconfig.dev.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\bin\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\bin\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.csprojAssemblyReference.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.Form1.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.Properties.Resources.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.csproj.GenerateResource.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.AssemblyInfoInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.AssemblyInfo.cs
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Sinema_büfe_satis_uygulaması\Sinema_büfe_satis_uygulaması\obj\Debug\netcoreapp3.1\Sinema_büfe_satis_uygulaması.genruntimeconfig.cache
